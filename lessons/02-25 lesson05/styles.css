@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+    padding: 20px;
+}
+
+#division02 {
+    margin: 100px;
+    background-color: bisque;
+    padding: 20px;
+}
+
+#division01 {
+    background-color: blue;
+}
+
+#image01{
+    width: 300px;
+    height: 200px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.image02{
+    width: 600px;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius:10px;
+    margin: 100px;
+}
+
+h1{
+    padding-left: 90px;
+}
+
+
