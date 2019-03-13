@@ -1,0 +1,27 @@
+body {
+    padding: 20px;
+ }
+ 
+ .box {
+    width: 100px;
+    height: 100px;
+    border: 5px solid pink;
+    margin: 10px;
+ }
+ 
+ .rgb {
+ }
+ 
+ .hsl {
+ }
+ 
+ .hex {
+ 
+ }
+ 
+ .rgba {
+ }
+ 
+ .col {
+    border: 1px solid black;
+ }
