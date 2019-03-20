@@ -31,12 +31,29 @@ body {
     background-color: rgba(214, 55, 124, 0.5);
     box-sizing: border-box;
  }
- /* you never overwrite bootsrab classes */
- 
- .col {
-    border: 1px solid black;
+ /* solid: is a type of border /   */
+ .post{
+     border: 20px groove blue;
+     padding: 10px;
+     margin: 30px;
+     
+
  }
- /* to make a space between the rows we need to create a margin to seprate them */
+/*we don`t use a row because it is a bootsrap class with padding we are adding a spsce between an element and the border/
+row border will be marked without the division between it so our element will be post
  .row{
-   margin: 200px;
+   padding: 20px;
+   border: 20px groove blue;
+ } */
+#title{
+   text-align: center;
+   color: red;
+   background-color: yellow;
 }
+
+p{
+   color: orangered;
+   font-size: 20px;
+}
+
+ 
